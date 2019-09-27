@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">H1102272005_tugasToastActiv</string>
+    <string name="toast">TOAST</string>
+    <string name="countup">CountUp</string>
+    <string name="countdown">CountDown</string>
+    <string name="lima">5</string>
+</resources>
